@@ -26,8 +26,8 @@ The archive contains:
 - `environment.yml` : Conda environment for reproducibility  
 - README instructions  
 
-> ✅ The package is structured for easy reproducibility, especially for reviewers of our [Conference Name] 2025 submission.
-
+> ✅ The package is structured for easy reproducibility, especially for reviewers of our [ICONIP] 2025 submission.
+ICONIP
 ---
 
 ## ⚙️ Environment Setup
